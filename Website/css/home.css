@@ -1,0 +1,31 @@
+.carousel-inner > .item > img,
+.carousel-inner > .item > a > img {
+  width: 60%;
+  height: 30%;
+  margin: auto;
+}
+.navbar > .container-fluid > .navbar-header > .navbar-brand {
+  color: white;
+}
+.container > .col-md-8 > p {
+  font-size: 15px;
+  font-family: 
+}
+.wrapper {
+  background-image: url(../img/logo.jpg);
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  width: 600px;
+  height: 600px;
+   margin: auto;
+}
+.container > .jumbotron {
+  text-align: center;
+}
+.footer-bottom {
+  background-color: black;
+  color: white;
+}
+.footer-bottom > .container > #year {
+  float: right;
+}

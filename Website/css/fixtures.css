@@ -1,0 +1,21 @@
+.navbar > .container-fluid > .navbar-header > .navbar-brand {
+  	color: white;
+  }
+table {
+	border-collapse: collapse;
+	table-layout: fixed;
+}
+table td {
+	border: solid 1px #fab;
+	word-wrap: break-word;
+}
+.footer-bottom {
+	background-color: black;
+	color: white;
+}
+.footer-bottom > .container > #year {
+	float: right;
+}
+.score {
+	right:0px;
+}
